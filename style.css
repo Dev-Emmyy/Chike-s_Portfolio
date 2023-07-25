@@ -772,6 +772,9 @@ body {
     .titleContainer h1 {
         font-size: 35px;
         width: 100%;
+    }
+
+    .titleContainer .typedName {
         min-height: 13vh;
     }
     
