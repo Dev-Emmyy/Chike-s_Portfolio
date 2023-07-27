@@ -93,7 +93,7 @@ body {
 }
 
 .titleContainer #typed-name {
-    color:#F0E68C;
+    color:#3eaf67;
     font-style: italic;
 }
 
@@ -119,9 +119,6 @@ body {
     }
 }
 
-.titleContainer span {
-    color: #3eaf67;
-}
 
 .titleContainer p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
