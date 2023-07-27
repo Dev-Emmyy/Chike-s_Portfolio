@@ -93,10 +93,8 @@ body {
 }
 
 .titleContainer #typed-name {
-    background: linear-gradient(to right, #42484c, #3eaf67);
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
+    color:#F0E68C;
+    font-style: italic;
 }
 
 
