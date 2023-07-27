@@ -93,8 +93,12 @@ body {
 }
 
 .titleContainer #typed-name {
-    color: #fff;
+    background: linear-gradient(to right, #42484c, #3eaf67);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
 }
+
 
 #typed-name::after {
     content: "|";
@@ -805,8 +809,6 @@ body {
     .titleImgBg img {
         width: 100%;
     }
-
-
 
     .tact_slls {
         display: flex;
