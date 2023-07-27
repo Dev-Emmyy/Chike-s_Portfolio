@@ -326,7 +326,7 @@ body {
     background-color: #1e1f21;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     width: 570px;
-    height: 300px;
+    height: 350px;
     padding: 40px;
     border-radius: 15px;
     cursor: pointer;
@@ -366,7 +366,7 @@ body {
 
 .experienceTitle {
     display: flex;
-    gap: 50px;
+    gap: 40px;
     align-items: center;
     margin-bottom: 30px;
     padding-bottom: 20px;
@@ -382,6 +382,7 @@ body {
 
 .experienceTitle p {
     text-transform: uppercase;
+
 }
 
 .experienceDesc {
@@ -395,7 +396,6 @@ body {
     padding: 7px;
     color: #3eaf67;
 }
-
 
 .educationMainContainer {
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.7);
@@ -605,6 +605,24 @@ body {
     cursor: pointer;
     box-shadow: 12px 0px 16px rgba(0, 0, 0, 1);
     margin-bottom: 20px;
+}
+
+.cvLink {
+    margin: 40px 0px;
+}
+
+.cvLink a {
+    text-decoration: none;
+    background-color:#191b1e;
+    border-radius: 6px;
+    border: 2px solid #191b1e;
+    padding: 15px;
+    font-size: 14px;
+    color: #d7dee3;
+    letter-spacing: 1px;
+    width: 100%;
+    box-shadow: 12px 0px 16px rgba(0, 0, 0, 1);
+    cursor: pointer;
 }
 
 .messageContainer h4 {
@@ -838,7 +856,7 @@ body {
     }
 
     .experienceContainer2 {
-        height: 500px;
+        height: 600px;
         padding: 40px 20px;
         width: 100%;
     }
@@ -862,7 +880,7 @@ body {
 
     .experienceTitle p {
         text-transform: uppercase;
-        width: 300px;
+        width: 200px;
        
     }
 
